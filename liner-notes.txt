@@ -11,7 +11,7 @@ SOURCE MATERIAL
 themes inspired from childhood near-death experiences and how we came to understand them...
 theory: we are all singularity material, we can make/build gravity wells, for whatever we want.
 
-<hydra.js link>
+<PLACEHOLDER hydra.js WEB link>
 when you go to this page, it can serve as a visualizer for the bh tape, 
 or it can be used as a custom made hydra.js patch in our design.
 
